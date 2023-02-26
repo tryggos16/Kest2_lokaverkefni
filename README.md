@@ -6,7 +6,7 @@
 
 
 # 2. Notendur (20%)
-### Time: 25:2:2023
+### Time: 24:2:2023
 
 I started of by writing a PowerShell script that created the Groups for the project,
 And then i wrote another one that created the users. <br />
@@ -25,5 +25,15 @@ This took me the longest time to do.<br />
 
 I started of by writing a script that would create a folder int hte C: Root cald "Gogn"<br />
 then i wrote a CSV file that would create the folder and file For Each Group, which would be stored in the "Gogn" Folder.<br />
-then i worte yet another CSV file that would tell which Group had access to the Folder named by there Group.
+then i worte yet another CSV file that would tell which Group had access to the Folder named by there Group.<br />
+And lastly i put all of that together in one PowerShell script.
+
+
+# 4. Öryggismál (10%)
+### Time: 26:2:2023
+
+To set a paswword lenght i uset this line of code (net accounts /minpwlen:8)
+
+To enable Password colpaxity, Go to (Local Security Policy, Account Policy, Password Policy.)<br /> And Enable "Password must meet complexity requirements"
+
 
