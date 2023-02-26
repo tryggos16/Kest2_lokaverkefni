@@ -37,3 +37,5 @@ To set a paswword lenght i uset this line of code (net accounts /minpwlen:8)
 To enable Password colpaxity, Go to (Local Security Policy, Account Policy, Password Policy.)<br /> And Enable "Password must meet complexity requirements"
 
 
+# 5. Netkerfi (30%)
+
