@@ -38,4 +38,9 @@ To enable Password colpaxity, Go to (Local Security Policy, Account Policy, Pass
 
 
 # 5. Netkerfi (30%)
+### Time: 26:2:2023
 
+finally when the classes started, we started with Cisco Packet Tracer.<br />
+we went so quickly through the basics, that i wasn't able to keep up, and i lost almost all interest in learning to use the software i had to install on my laptop. 
+
+So i gave up on this part. 
