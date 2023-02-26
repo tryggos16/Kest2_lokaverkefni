@@ -7,8 +7,6 @@
 
 # 2. Notendur (20%)
 ### Time: 25:2:2023
-### Idasdawdasd
 
-### dasdwads
-
-dwdadwdddd
+I started of by writing a PowerShell script that created the Groups for the project,
+And then i wrote another one that created the users.
